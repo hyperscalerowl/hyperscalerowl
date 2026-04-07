@@ -26,8 +26,8 @@ export default function RootLayout({
             theme: {
               extend: {
                 colors: {
-                  primary: '#2563eb',
-                  secondary: '#475569',
+                  primary: '#6366f1',
+                  secondary: '#1e1b4b',
                 }
               }
             }
